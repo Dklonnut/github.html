@@ -13,7 +13,7 @@ body{
     height: 100px;
 }
 .nep{
-    background-color: blue;
+    background-color: yellow;
     width: 100px;
     height: 100px;
     
@@ -21,4 +21,9 @@ body{
 .map{
     display: flex;
     justify-content: space-around;
+}
+.epn{
+    background-color: green;
+    width: 100px;
+    height: 100px;
 }
