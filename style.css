@@ -12,3 +12,13 @@ body{
     width: 100px;
     height: 100px;
 }
+.nep{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    
+}
+.map{
+    display: flex;
+    justify-content: space-around;
+}
